@@ -5,6 +5,7 @@ public class HelloWorld {
 		System.out.println("Olá Mundo!");
 		System.out.println("Prática de GIT");
 		System.out.println("Branch hotfix");
+		System.out.println("Branch hotfix2");
 		
 	}
 
